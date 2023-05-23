@@ -1,1 +1,9 @@
 .venv
+venv
+env
+__pycache__
+
+.env
+.python-version
+
+chroma_db
